@@ -1080,7 +1080,7 @@ slick-dots li button:before {
 }
 
 .blog p {
-    padding: 2.3rem 2.5rem;
+    padding: 1rem 2.5rem;
     color: #505050;
     text-align: left;
     font-weight: 500;
@@ -1168,7 +1168,7 @@ slick-dots li button:before {
 }
 
 .blog-2 p {
-    padding: 2.3rem 1.3rem;
+    padding: 0rem;
     color: #505050;
     text-align: left;
     font-weight: 500;
