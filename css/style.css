@@ -1653,11 +1653,6 @@ slick-dots li button:before {
         margin-top: 1rem;
     }
 
-    .footer {
-        width: 100vw;
-        height: 100vh;
-    }
-
     .bottom-footer {
         margin-top: 5rem;
         text-align: center;
